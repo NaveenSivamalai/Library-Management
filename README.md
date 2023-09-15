@@ -52,10 +52,6 @@ Star UML
 
 ![activity 1](https://github.com/22008686/Library-Management/assets/118916413/799aa11d-9a82-41e4-9cd9-eccc38ee9625)
 
-## STATE TRANSITION DIAGRAM:
-
-
-
 ## COMMUNICATION DIGRAM:
 
 ![communicationdiagram](https://github.com/22008686/Library-Management/assets/118916413/e3967753-01ce-4aeb-92eb-7f747adf2c92)
@@ -63,6 +59,7 @@ Star UML
 
 ## SEQUENCE DIAGRAM:
 
+![WhatsApp Image 2023-09-15 at 2 27 23 PM](https://github.com/22008686/Library-Management/assets/118916413/5f36980a-18ed-45fe-8b04-049af9977dd1)
 
 ## PACKAGE DIAGRAM:
 
