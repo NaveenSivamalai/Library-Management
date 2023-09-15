@@ -42,11 +42,11 @@ Star UML
 
 ## USE CASE DIAGRAM:
 
-![usecase 1](https://github.com/22008686/Library-Management/assets/118916413/ee777ffa-1dfb-44ac-8447-6ca4c3241e47)
+![Screenshot 2023-09-15 143503](https://github.com/22008686/Library-Management/assets/118916413/f6ceb51f-0b85-49d8-ad52-4d46c6ffec90)
 
 ## CLASS DIAGRAM:
 
-![class 2](https://github.com/22008686/Library-Management/assets/118916413/ea467248-6803-489b-b2c6-a9c10bde9f76)
+![WhatsApp Image 2023-09-15 at 1 27 44 PM (1)](https://github.com/22008686/Library-Management/assets/118916413/7e5c0377-6909-43cc-b175-3c41b158ec02)
 
 ## ACTIVITY DIAGRAM:
 
@@ -58,7 +58,8 @@ Star UML
 
 ## COMMUNICATION DIGRAM:
 
-![COMMUNICATION 1](https://github.com/22008686/Library-Management/assets/118916413/a57148bd-e16e-4a5b-9925-df5c5ab7215b)
+![communicationdiagram](https://github.com/22008686/Library-Management/assets/118916413/e3967753-01ce-4aeb-92eb-7f747adf2c92)
+
 
 ## SEQUENCE DIAGRAM:
 
