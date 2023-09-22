@@ -38,6 +38,12 @@ In this module the user can cancel their name which is registered for the Book.
 
 Star UML
 
+```
+NAVEEN S
+212222110030
+```
+
+
 ### UML Diagrams:
 
 ## USE CASE DIAGRAM:
