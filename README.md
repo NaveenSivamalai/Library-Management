@@ -71,6 +71,10 @@ NAVEEN S
 
 ![package diagram](https://github.com/22008686/Library-Management/assets/118916413/c97b67db-7381-4439-99b8-db584769f303)
 
+## STATECHART DIAGRAM:
+
+![274486595-bc3e7ba2-e181-4f70-ad54-10500ba5f9e9](https://github.com/NaveenSivamalai/Library-Management/assets/123792574/613ddc2f-2800-49d6-af7e-10318c0046c6)
+
 ### RESULT:
 
 Thus the Library management system project was executed and the output was verified.
